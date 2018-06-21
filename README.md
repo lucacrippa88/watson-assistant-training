@@ -52,3 +52,7 @@ Please refer to this Github repository to know how to integrate the Virtual Assi
 
 This is not an official asset. It has been created by me and it's not intended for professional use. However, it follows all guidelines you can find in https://console.bluemix.net/docs/services/conversation/ and in https://www.ibm.com/watson/developercloud/assistant/api/v1/.
 For Watson Services SLAs, please have a look here: https://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-0038-09.
+
+## License
+
+This project uses the Apache License Version 2.0 software license. https://github.com/lucacrippa88/watson-assistant-training/blob/master/LICENSE
