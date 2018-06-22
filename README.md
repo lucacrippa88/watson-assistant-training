@@ -17,11 +17,13 @@ To be updated.
 
 ### Intents
 
-To be updated.
+When the user writes something to a general Chatbot, he has in mind a precise intent for each sentence: if the context of the conversation is a restaurant, a sentence "I'm really hungry" could have the intent "I want to order some food". Most of the Chatbots available in the Internet work by keyword: i.e. if a user writes "I'm not really hungry by now" and the keyword is only "hungry", the Chatbot could interpret this as "Place a food order", even if in this case the intent of the user is not to place a food order.
+With Watson Assistant, powered by IBM Watson Machine Learning algorithms, you can actually train the Chatbot to recognize the real intent of the user by providing a set of typical sentences as a knowledge base on that intent: as the user writes a sentence to the Chatbot, the algorithm performs an analysis of the sentence, understanding it by a correlation of it's knowledge base.
+With Watson Assistant you can create your own intents with your own knowledge base, either by using the graphic interface or by uploading a set of sentences in a well structured csv file.
 
 ### Content Catalog
 
-To be updated.
+Watson Assistant has a set of intents ready to be used, divided by categories.
 
 ### Entities
 
