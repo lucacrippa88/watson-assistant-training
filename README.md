@@ -19,6 +19,10 @@ To be updated.
 
 To be updated.
 
+### Content Catalog
+
+To be updated.
+
 ### Entities
 
 To be updated.
