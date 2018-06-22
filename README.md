@@ -32,6 +32,23 @@ To be updated.
 To be updated.
 
 
+## How to enhance Watson Assistant conversations
+
+To be updated.
+
+### Context variables
+
+To be updated.
+
+### Slots
+
+To be updated.
+
+### Digressions
+
+To be updated.
+
+
 ## Tutorials
 
 Please find tutorials on how to train Watson Assistant here: link to come (Italian spoken, but with English interface).
