@@ -27,7 +27,10 @@ Watson Assistant has a set of intents ready to be used, divided by categories.
 
 ### Entities
 
-Entities are used to enhance the conversation capabilities. The best way to understand entities could be the following: let's create an intent for "food order", that understands sentences from "can I place a food order" to "I'm really hungry...". Let's say that a restaurant menu is full of options: so instead of creating one intent for each menu entry, we can create only one intent for a general "food order", and then we can use entities to specify what kind of food we are about to order.
+Entities are used to enhance the conversation capabilities. The best way to understand entities could be the following: let's create an intent for "food order", that understands sentences from "can I place a food order" to "I'm really hungry...". Let's say that a restaurant menu is full of options: so instead of creating one intent for each menu entry, we can create only one intent for a general "food order", and then we can use entities to specify what kind of food we are about to order. So if the user will say "I'd like to order two margherita pizzas", Watson Assistant will identify:
+1. intent: #food_order
+2. entity: @number:2
+3. entity: @pizza:margherita
 
 ### Dialog
 
