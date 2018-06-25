@@ -32,6 +32,10 @@ Entities are used to enhance the conversation capabilities. The best way to unde
 2. entity: @number:2
 3. entity: @pizza:margherita
 
+### System Entities
+
+The system entities are similar to the Intents Content Catalog, as they are a bunch of ready to use entities: number, percentage, currency, date, time, etc.
+
 ### Dialog
 
 To be updated.
@@ -53,6 +57,9 @@ To be updated.
 
 To be updated.
 
+### Fuzzy Matching on Entities
+
+To be updated.
 
 ## Tutorials
 
