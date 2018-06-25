@@ -1,0 +1,207 @@
+Mi dici il tuo nome?,General_About_You
+Vorrei sapere come creare un chat bot,General_About_You
+Ti forniscono i servizi?,General_About_You
+Su quale sistema operativo è il bot?,General_About_You
+Sei un rappresentante ufficiale della conversazione?,General_About_You
+Sei una dashboard,General_About_You
+Riesci a descriverti?,General_About_You
+puoi scoprire la mia ubicazione watson,General_About_You
+Potresti mettermi in contatto con un essere umano?,General_About_You
+"Non capisco come funziona il vostro sito, mi puoi aiutare?",General_About_You
+Aiutami a capire come verificare la tua funzionalità,General_About_You
+Informazioni tecniche su agente virtuale watson,General_About_You
+Il buon Watson è troppo intelligente,General_About_You
+Ho bisogno di informazioni sul prezzo di Watson,General_About_You
+Hai un nomignolo?,General_About_You
+Esisti davvero oppure sei solo virtuale?,General_About_You
+E per quel che riguarda te? Cosa si dice?,General_About_You
+Diventiamo amici?,General_About_You
+Come stai?,General_About_You
+Che differenza c'è con altre chat?,General_About_You
+Come posso usare le funzionalità demo dell'agente?,General_Agent_Capabilities
+Voglio avere informazioni su una domanda frequente,General_Agent_Capabilities
+Senti puoi dirmi come puoi aiutarmi per favore?,General_Agent_Capabilities
+Quali sono i comandi di aiuto?,General_Agent_Capabilities
+Puoi dirmi i tipi di cose con cui puoi aiutarmi?,General_Agent_Capabilities
+Puoi aspettare solo un attimo per favore?,General_Agent_Capabilities
+Posso visualizzare metriche settimanali,General_Agent_Capabilities
+Posso vedere le domande più frequenti?,General_Agent_Capabilities
+Mi piacerebbe sapere che tipo di problemi si possono risolvere per me.,General_Agent_Capabilities
+"Ho qualche domanda, e ho bisognoso di assistenza ... posso chiedere aiuto?",General_Agent_Capabilities
+"Ho molte domande, può rispondere alle domande sui suoi servizi",General_Agent_Capabilities
+Fornisci assistenza generale? Non so cosa posso chiederti,General_Agent_Capabilities
+E' possibile ricevere un qualche tipo d'aiuto?,General_Agent_Capabilities
+Diavolo! Mi piacerebbe sapere che tipo di domande puoi rispondere per me.,General_Agent_Capabilities
+Come posso creare una conversazione qui?,General_Agent_Capabilities
+"Ciao, su quali argomenti puoi aiutarmi?",General_Agent_Capabilities
+Ciao. Potresti darmi un elenco di argomenti con cui puoi aiutarmi per favore?,General_Agent_Capabilities
+"Ciao, come puoi essermi d'aiuto oggi?",General_Agent_Capabilities
+che tipo di assistenza mi puoi dare?,General_Agent_Capabilities
+Per favore aiutarmi a raggiungere un agente,General_Connect_to_Agent
+Per favore posso parlare con un consulente della mia bolletta,General_Connect_to_Agent
+Posso avere i contatti per parlare con un operatore attivo?,General_Connect_to_Agent
+Posso parlare con un operatore in carne e ossa?,General_Connect_to_Agent
+Puoi solamente mandarmi un numero di telefono per parlare con un rappresentante commerciale umano?,General_Connect_to_Agent
+"Sto cercando di trovare una persona sul telefono, non una macchina automatica. Come posso parlare con una persona al supporto clienti? grazie",General_Connect_to_Agent
+"Voglio che mi mettiate in contatto con un operatore che mi può aiutare, non con una macchina",General_Connect_to_Agent
+Voglio parlare con un addetto all'assistenza clienti.,General_Connect_to_Agent
+Voglio parlare con un operatore al telefono,General_Connect_to_Agent
+Voglio parlare della gestione del profilo con un agente,General_Connect_to_Agent
+Ciao. Potresti passare la mia chiamata a un operatore in carne e ossa per favore? Vorrei parlare direttamente con un essere umano.,General_Connect_to_Agent
+Collegami a un operatore,General_Connect_to_Agent
+Collegarmi a un operatore vivente per favore.,General_Connect_to_Agent
+Come posso saltare il menu registrato e andare dritto ad una persona viva?,General_Connect_to_Agent
+Esiste un numero del servizio clienti della compagnia telefonica che posso usare per parlare direttamente con un operatore?,General_Connect_to_Agent
+Fammi parlare con un essere umano per favore,General_Connect_to_Agent
+"Ho bisogno di parlare con una persona reale piuttosto che comunicare con un sistema di risposta automatica, per favore.",General_Connect_to_Agent
+"Ho provato a compilare il modulo online, ma ci vogliono giorni. Voglio parlare con qualcuno che può farlo adesso",General_Connect_to_Agent
+Per favore aiutarmi a connettersi ad un agente,General_Connect_to_Agent
+Per favore mi collega ad un agente umano che parla inglese bene.,General_Connect_to_Agent
+Addio!,General_Ending
+Pausa,General_Ending
+Non vedo l'ora di parlarti la prossima volta.,General_Ending
+Mi è piaciuto cooperare con te.,General_Ending
+Me ne sto andando.,General_Ending
+Grazie watson parliamo dopo per quanto riguarda il pagamento della fattura,General_Ending
+"Grazie di tutto, è stato molto di aiuto",General_Ending
+Grazie di avermi aiutato. Ciao,General_Ending
+Ehi penso che hai risolto il mio problema grazie,General_Ending
+ciao watson ti auguro una giornata bellissima,General_Ending
+Buon pomeriggio.,General_Ending
+Buona giornata.,General_Ending
+"ok grazie mille, a presto",General_Ending
+"ok grazie, arrivederci",General_Ending
+"Va bene, grazie mille allora",General_Ending
+Stammi bene.,General_Ending
+Spero di risentirla presto,General_Ending
+Sono curiso se ci sentiamo ancora.,General_Ending
+sono contento che non devo parlare con gli umani ciao watson,General_Ending
+smetti questa sessione adesso,General_Ending
+Piacere di conoscerti.,General_Ending
+"Bene, abbiamo fatto tutto ciò che mi serviva.",General_Ending
+Buon pomeriggio bot!,General_Greetings
+Buondì,General_Greetings
+Salve Watson,General_Greetings
+"Ti trovo bene, buona sera",General_Greetings
+Sto parlando con un computer?,General_Greetings
+Salve operatore virtuale,General_Greetings
+"Salve, l' attivazione del pacchetto messaggi non e' ancora stato effettuato",General_Greetings
+Saluti a lei,General_Greetings
+Pronto per cominciare,General_Greetings
+Non ho chiesto di parlare con un agente. Stavo per dire ciao a te,General_Greetings
+Mi sei mancato.,General_Greetings
+La gente non è maleducata?,General_Greetings
+Hai trascorso una buona giornata?,General_Greetings
+Ehi tutto a posto?,General_Greetings
+Come ti senti?,General_Greetings
+Ciao watson fornitore di informazioni,General_Greetings
+"Ciao, ho dei problemi di navigazione nel vostro portale",General_Greetings
+Ciao gemello informatico,General_Greetings
+"Ciao, avrei bisogno di una vostra consulenza",General_Greetings
+"Buonasera, ho qualche domanda da farle, posso ?",General_Greetings
+Buongiorno Agent!,General_Greetings
+"Che succede, fratello",General_Greetings
+Vorrei essere messo in contatto con un essere umano.,General_Human_or_Bot
+Chi sei?,General_Human_or_Bot
+Cosa provi parlando con me?,General_Human_or_Bot
+Di dove sei?,General_Human_or_Bot
+Dietro un bot c'è un essere umano?,General_Human_or_Bot
+Dimmi tre cose di te.,General_Human_or_Bot
+E' la comunicazione con bot?,General_Human_or_Bot
+Esisti in carne ed ossa?,General_Human_or_Bot
+Esisti solo nel mondo virtuale?,General_Human_or_Bot
+"In che tipo di relazione siamo, bot?",General_Human_or_Bot
+In quanti siete?,General_Human_or_Bot
+Mi passi un agente che non sia virtuale?,General_Human_or_Bot
+Potresti passarmi una persona dal mondo reale?,General_Human_or_Bot
+Preferisco essere connesso con una persona.,General_Human_or_Bot
+Sarai onesto con me?,General_Human_or_Bot
+Sei un essere umano oppure un bot?,General_Human_or_Bot
+Sei vero?,General_Human_or_Bot
+Sto parlando con un essere umano oppure con un bot?,General_Human_or_Bot
+Sto parlando con Watson?,General_Human_or_Bot
+Chi è questo?,General_Human_or_Bot
+E' divertente la vita virtuale?,General_Jokes
+Giochiamo finché non troviamo la soluzione?,General_Jokes
+Hai il senso di umorismo?,General_Jokes
+Ma la nostra conversazione è uno scherzo?,General_Jokes
+Mi annoio.,General_Jokes
+Mi racconti una barzelletta?,General_Jokes
+Scrivimi la soluzione nei versi.,General_Jokes
+Sei tu la barzelletta?,General_Jokes
+Sei un bot divertente?,General_Jokes
+Ti diverti ogni tanto?,General_Jokes
+Ti piace scherzare?,General_Jokes
+Un bot con I capelli rossi...,General_Jokes
+Vuoi cantarmi la soluzione?,General_Jokes
+mi faresti ridere?,General_Jokes
+Conosci quella barzelletta?,General_Jokes
+C'era una volta un bot...,General_Jokes
+C'era una volta un problema con la connessione... Racconta una favola sulla rete.,General_Jokes
+Che mi racconti di bello?,General_Jokes
+Ci mettiamo a ballare per trovare la soluzione?,General_Jokes
+Cosa mi racconti di divertente?,General_Jokes
+Dimmi una barzelletta.,General_Jokes
+"Non ho parole, davvero.",General_Negative_Feedback
+Mi prendi in giro?,General_Negative_Feedback
+Mascalzone!,General_Negative_Feedback
+Ma non scherziamo!,General_Negative_Feedback
+Mannaggia!,General_Negative_Feedback
+Impossibile!,General_Negative_Feedback
+Fottiti!,General_Negative_Feedback
+Come cavolo posso parlare con una persona?,General_Negative_Feedback
+Che stupido!,General_Negative_Feedback
+Sono arrabbiato.,General_Negative_Feedback
+Stronzo!,General_Negative_Feedback
+Ti odio.,General_Negative_Feedback
+Va a cagare!,General_Negative_Feedback
+Vaffanculo!,General_Negative_Feedback
+Cerca di essere piacevole.,General_Negative_Feedback
+Brutta esperienza.,General_Negative_Feedback
+Smettila!,General_Negative_Feedback
+Sei scemo.,General_Negative_Feedback
+Non mi piaci per niente.,General_Negative_Feedback
+Non farmi incazzare!,General_Negative_Feedback
+Sono affascinato!,General_Positive_Feedback
+Sei un genio.,General_Positive_Feedback
+"Sei stato bravo, sul serio.",General_Positive_Feedback
+Sei saggio.,General_Positive_Feedback
+"Sei in gamba, davvero!",General_Positive_Feedback
+Sei bravissimo! Non posso crederci.,General_Positive_Feedback
+Non vedo l'ora di collaborare di nuovo con te.,General_Positive_Feedback
+Mi piace veramente.,General_Positive_Feedback
+Mi hai colpito.,General_Positive_Feedback
+Mi hai aiutato tantissimo.,General_Positive_Feedback
+Magnifico!,General_Positive_Feedback
+Grazie mille!,General_Positive_Feedback
+Complimenti vivissimi!,General_Positive_Feedback
+Complimenti!,General_Positive_Feedback
+Benissimo!,General_Positive_Feedback
+Bella storia!,General_Positive_Feedback
+Sono contento.,General_Positive_Feedback
+Sono soddisfatto.,General_Positive_Feedback
+stupendo!,General_Positive_Feedback
+Tante grazie!,General_Positive_Feedback
+Accettate la carta di credito?,metodi_pagamento
+Posso pagare in contanti?,metodi_pagamento
+Accettate pagamenti con paypal?,metodi_pagamento
+Posso usare il bancomat?,metodi_pagamento
+Quali metodi di pagamento avete?,metodi_pagamento
+Come posso pagare?,metodi_pagamento
+Posso ordinare da mangiare?,seleziona_pizza
+Ho proprio voglia di pizza stasera,seleziona_pizza
+"Ho fame, vorrei cenare",seleziona_pizza
+Potresti portami una pizza?,seleziona_pizza
+Voglio una pizza margherita,seleziona_pizza
+Vorrei ordinare una pizza,seleziona_pizza
+Vorrei avere una pizza,seleziona_pizza
+voglio registrarmi per gli sconti,sottoscrivi_tessera
+vorrei iscrivermi al programma fedeltà,sottoscrivi_tessera
+vorrei fare la vostra tessera,sottoscrivi_tessera
+posso avere la vostra tessera?,sottoscrivi_tessera
+vorrei registrarmi per avere sconti,sottoscrivi_tessera
+Raccontami cosa c'è nel menu,spiegazione_menu
+Quali pizze posso ordinare?,spiegazione_menu
+Che pizze avete in menu?,spiegazione_menu
+Quali sono le pizze disponibili stasera?,spiegazione_menu
+Posso vedere l'elenco delle pizze?,spiegazione_menu
