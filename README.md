@@ -13,7 +13,7 @@ In order to use this code, it's necessary to have:
 
 ## How to train Watson Assistant
 
-To be updated.
+In order to perform the Watson Assistant training, the trainer should use the following features, named Intents and Entities, with the related catalogues.
 
 ### Intents
 
@@ -21,7 +21,7 @@ When the user writes something to a general Chatbot, he has in mind a precise in
 With Watson Assistant, powered by IBM Watson Machine Learning algorithms, you can actually train the Chatbot to recognize the real intent of the user by providing a set of typical sentences as a knowledge base on that intent: as the user writes a sentence to the Chatbot, the algorithm performs an analysis of the sentence, understanding it by a correlation of it's knowledge base.
 With Watson Assistant you can create your own intents with your own knowledge base, either by using the graphic interface or by uploading a set of sentences in a well structured csv file.
 
-### Content Catalog
+#### Content Catalog
 
 Watson Assistant has a set of intents ready to be used, divided by categories.
 
@@ -32,11 +32,12 @@ Entities are used to enhance the conversation capabilities. The best way to unde
 2. entity: @number:2
 3. entity: @pizza:margherita
 
-### System Entities
+#### System Entities
 
 The system entities are similar to the Intents Content Catalog, as they are a bunch of ready to use entities: number, percentage, currency, date, time, etc.
 
-### Dialog
+
+## Create a Dialog
 
 To be updated.
 
