@@ -66,17 +66,17 @@ To be updated.
 
 Please find tutorials on how to train Watson Assistant here: link to come (Italian spoken, but with English interface).
 
-1. Riconoscere gli Intenti
-2. Gli Intenti generali
-3. Le Entità
-4. Raccogliere informazioni con gli Slot
-5. Le Digressioni 1/2
-6. Le Digressioni 2/2
-7. Organizzare Intenti ed Entità
-8. Raccogliere informazioni testuali da input
-9. Gestire le Variabili di contesto
-10. Integrazione con altri Servizi
-11. Controllo e debug con Postman
+1. Riconoscere gli Intenti: https://www.youtube.com/watch?v=imEN7GtX5zw&t=1s
+2. Gli Intenti generali: https://www.youtube.com/watch?v=isrVffJ1po8
+3. Le Entità: https://www.youtube.com/watch?v=rNoa4udCGrc
+4. Raccogliere informazioni con gli Slot: https://www.youtube.com/watch?v=d3tbYvYz_UU
+5. Le Digressioni 1/2: https://www.youtube.com/watch?v=Qa4Y15XzpRc&t=1s
+6. Le Digressioni 2/2: https://www.youtube.com/watch?v=okxMSkfbQVM
+7. Organizzare Intenti ed Entità: https://www.youtube.com/watch?v=KTkZRF2lLPk
+8. Raccogliere informazioni testuali da input: https://www.youtube.com/watch?v=4HMBBB51iZQ
+9. Gestire le Variabili di contesto: https://www.youtube.com/watch?v=Z8pujSseWTY
+10. Integrazione con altri Servizi: https://www.youtube.com/watch?v=TDMdf15wRW8
+11. Controllo e debug: https://www.youtube.com/watch?v=7mp-R_lMLyc
 
 Please refer to this Github repository to know how to integrate the Virtual Assistant into a web app:
 1. PHP: https://github.com/lucacrippa88/watson-assistant-php
