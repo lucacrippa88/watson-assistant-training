@@ -39,7 +39,10 @@ The system entities are similar to the Intents Content Catalog, as they are a bu
 
 ## Create a Dialog
 
-To be updated.
+#### welcome
+The welcome node is called when the convresation starts. It promps the user with a "welcome" sentence as he starts the chatbot.
+
+#### anything_else
 
 
 ## How to enhance Watson Assistant conversations
