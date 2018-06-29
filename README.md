@@ -39,10 +39,15 @@ The system entities are similar to the Intents Content Catalog, as they are a bu
 
 ## Create a Dialog
 
-#### welcome
-The welcome node is called when the convresation starts. It promps the user with a "welcome" sentence as he starts the chatbot.
+The Dialog is a set of nodes, activated when one or more conditions occur, that contain the conversation flow. the nodes are evaluated from the top to the bottom.
 
-#### anything_else
+### Some important nodes
+
+#### Node 1: welcome
+The welcome node is called when the convresation starts. It promps the user with a "welcome" sentence as he starts the chatbot. This node should be always the first node in the dialog.
+
+#### Last node: anything_else
+The anything_else node is entered when the chatbot doesn't find a correlation between the user's sentence and a intent. This node should be always the last node in the dialog.
 
 
 ## How to enhance Watson Assistant conversations
