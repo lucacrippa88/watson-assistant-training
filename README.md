@@ -43,7 +43,7 @@ The Dialog is a set of nodes, activated when one or more conditions occur, that 
 
 ### Some important nodes
 
-#### Node 1: welcome
+#### First node: welcome
 The welcome node is called when the convresation starts. It promps the user with a "welcome" sentence as he starts the chatbot. This node should be always the first node in the dialog.
 
 #### Last node: anything_else
