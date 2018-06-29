@@ -86,6 +86,8 @@ Please find tutorials on how to train Watson Assistant here: link to come (Itali
 10. Integrazione con altri Servizi: https://www.youtube.com/watch?v=TDMdf15wRW8
 11. Controllo e debug: https://www.youtube.com/watch?v=7mp-R_lMLyc
 
+Linked video tutorials are not official assets.
+
 Please refer to this Github repository to know how to integrate the Virtual Assistant into a web app:
 1. PHP: https://github.com/lucacrippa88/watson-assistant-php
 2. Node.js: to be updated
@@ -94,6 +96,7 @@ Please refer to this Github repository to know how to integrate the Virtual Assi
 
 This is not an official asset. It has been created by me and it's not intended for professional use. However, it follows all guidelines you can find in https://console.bluemix.net/docs/services/conversation/ and in https://www.ibm.com/watson/developercloud/assistant/api/v1/.
 For Watson Services SLAs, please have a look here: https://www-03.ibm.com/software/sla/sladb.nsf/sla/bm-0038-09.
+Linked video tutorials are not official assets.
 
 ## License
 
