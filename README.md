@@ -68,7 +68,8 @@ To be updated.
 
 ### Fuzzy Matching on Entities
 
-To be updated.
+Fuzzy Matching (beta) is a feature that enables the automatic correction / interpretation of the Entities, considering typos / keyboard errors / user errors.
+For example, if an user writes "Pizza maghrerita" (with typo errors), with Fuzzy matching enabled Watson Assistant can understand the Entity as "Pizza margherita".
 
 ## Tutorials
 
