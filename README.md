@@ -60,7 +60,7 @@ To be updated.
 
 ### Slots
 
-To be updated.
+Slots are the simplest way to collect information from user inputs. Just activate slots, add as many as you need, and store contents into Context Variables. If a prompt question is added, the slot becomes required; elsewhere, is optional.
 
 ### Digressions
 
