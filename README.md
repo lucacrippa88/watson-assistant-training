@@ -52,7 +52,7 @@ The anything_else node is entered when the chatbot doesn't find a correlation be
 
 ## How to enhance Watson Assistant conversations
 
-The basic features explored in the previous paragraphs allowed to create a simple chatbot understanding and answering our questions.
+The basic features explored in the previous paragraphs allowed to create a simple chatbot understanding and answering our questions. Now with a fwe more sophisticated but easy to use features we can turn our chatbot in a real virtual assistant, allowing users to interact with it in a real natural language conversation.
 
 ### Context variables
 
