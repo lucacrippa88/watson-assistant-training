@@ -52,7 +52,7 @@ The anything_else node is entered when the chatbot doesn't find a correlation be
 
 ## How to enhance Watson Assistant conversations
 
-To be updated.
+The basic features explored in the previous paragraphs allowed to create a simple chatbot understanding and answering our questions.
 
 ### Context variables
 
@@ -87,6 +87,8 @@ Please find tutorials on how to train Watson Assistant here: link to come (Itali
 9. Gestire le Variabili di contesto: https://www.youtube.com/watch?v=Z8pujSseWTY
 10. Integrazione con altri Servizi: https://www.youtube.com/watch?v=TDMdf15wRW8
 11. Controllo e debug: https://www.youtube.com/watch?v=7mp-R_lMLyc
+12. More to come...
+13. More to come...
 
 Linked video tutorials are not official assets.
 
