@@ -78,8 +78,8 @@ When creating the dialog, in particular when setting up Watson's answers, it's p
 
 1. Text: Watson answers with a text. You can add variations to the answer by clicking "Enter response variation". The variations are set to "sequential" by default, meaning that the answers are provided in the selected order. By setting the responses to "random", each time the node is entered, a random answer of the list will be produced.
 2. Option: Watson answers with a list of options. You can record the selected option into a context variable and use it to perform actions.
-3. Pause
-4. Image
+3. Pause: set up a pause to the dialog. You can choose the pause amount in milliseconds.
+4. Image: Watson answers with an image.
 
 ## Tutorials
 
