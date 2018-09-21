@@ -72,6 +72,10 @@ Fuzzy Matching (beta) is a feature that enables the automatic correction / inter
 For example, if an user writes "Pizza maghrerita" (with typo errors), with Fuzzy matching enabled Watson Assistant can understand the Entity as "Pizza margherita".
 In some cases, Fuzzy Matching needs to be disabled: for example, if the user must insert a name, surname or a banking code, Watson Assistant should not try to interpretate the user input, risking to make errors.
 
+### Response types
+
+When creating the dialog...
+
 ## Tutorials
 
 Please find tutorials on how to train Watson Assistant here: link to come (Italian spoken, but with English interface).
