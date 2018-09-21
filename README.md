@@ -74,7 +74,7 @@ In some cases, Fuzzy Matching needs to be disabled: for example, if the user mus
 
 ### Response types
 
-When creating the dialog...
+When creating the dialog, in particular when setting up Watson's answers, it's possible to customize the response type.
 
 ## Tutorials
 
