@@ -74,7 +74,12 @@ In some cases, Fuzzy Matching needs to be disabled: for example, if the user mus
 
 ### Response types
 
-When creating the dialog, in particular when setting up Watson's answers, it's possible to customize the response type.
+When creating the dialog, in particular when setting up Watson's answers, it's possible to customize the response type. The available response types are:
+
+1. Text: Watson answers with a text. You can add variations to the answer by clicking "Enter response variation". The variations are set to "sequential" by default, meaning that the answers are provided in the selected order. By setting the responses to "random", each time the node is entered, a random answer of the list will be produced.
+2. Option: Watson answers with a list of options. You can record the selected option into a context variable and use it to perform actions.
+3. Pause
+4. Image
 
 ## Tutorials
 
