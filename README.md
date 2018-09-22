@@ -7,7 +7,7 @@ Watson Assistant training via web interface on IBM Cloud. In this repository I w
 
 In order to use this code, it's necessary to have:
 
-1. An IBM Cloud account. It's free of charge, no credit card required (only a valid email address)
+1. An IBM Cloud account. It's free of charge, no credit card required (only a valid email address). Possible to have it leveraging your University partnership with IBM (see here for more info: https://www.ibm.com/industries/it/it/educationandresearch/)
 2. A Watson Assistant Lite Service (free of charge)
 
 
