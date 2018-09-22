@@ -105,7 +105,7 @@ Linked video tutorials are not official assets.
 
 Please refer to this Github repository to know how to integrate the Virtual Assistant into a web app:
 1. PHP: https://github.com/lucacrippa88/watson-assistant-php
-2. Node.js: to be updated...
+2. Node.js: https://github.com/lucacrippa88/watson-assistant-nodejs
 3. Node-RED: to be updated...
 
 ## Disclaimer
