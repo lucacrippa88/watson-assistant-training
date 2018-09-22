@@ -81,6 +81,8 @@ When creating the dialog, in particular when setting up Watson's answers, it's p
 3. Pause: set up a pause to the dialog. You can choose the pause amount in milliseconds.
 4. Image: Watson answers with an image.
 
+Important: you can mix the responses types by clicking on "add response" button: Watson will answer with all responses in a row.
+
 ## Tutorials
 
 Please find tutorials on how to train Watson Assistant here: link to come (Italian spoken, but with English interface).
@@ -103,7 +105,8 @@ Linked video tutorials are not official assets.
 
 Please refer to this Github repository to know how to integrate the Virtual Assistant into a web app:
 1. PHP: https://github.com/lucacrippa88/watson-assistant-php
-2. Node.js: to be updated
+2. Node.js: to be updated...
+3. Node-RED: to be updated...
 
 ## Disclaimer
 
