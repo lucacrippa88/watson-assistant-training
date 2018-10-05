@@ -64,7 +64,7 @@ Slots are the simplest way to collect information from user inputs. Just activat
 
 ### Digressions
 
-To be updated.
+As in human conversations, a conversation with Watson Assistant can be enhanced with digressions. You can activate them on a node or folder by clicking on the configuration button (the gear). You can choose whether to activate the digressions to the selected node, both ingoing and/or outgoing. You can also choose whether to allow digressions only from / to digressions that force the return to the original node.
 
 ### Fuzzy Matching on Entities
 
