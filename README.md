@@ -56,7 +56,7 @@ The basic features explored in the previous paragraphs allowed to create a simpl
 
 ### Context variables
 
-To be updated.
+Context variables are indicated with $ and are useful to define the context of the conversation.
 
 ### Slots
 
