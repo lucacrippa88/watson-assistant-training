@@ -56,7 +56,7 @@ The basic features explored in the previous paragraphs allowed to create a simpl
 
 ### Context variables
 
-Context variables are indicated with $ and are useful to define the context of the conversation.
+Context variables are indicated with the prefix "$" and are useful to define the context of the conversation. For example, if the user is talking about food ordering, and asks for info about delivery, the Virtual Assistant should not forget that the context of the conversation is food ordering! With context variables you can set and deepen the whole context of the conversation, keeping track of the main topic, the subtopics and the attributes of the conversation.
 
 ### Slots
 
