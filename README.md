@@ -47,7 +47,7 @@ The Dialog is a set of nodes, activated when one or more conditions occur, that 
 The welcome node is called when the convresation starts. It promps the user with a "welcome" sentence as he starts the chatbot. This node should be always the first node in the dialog.
 
 #### Last node: anything_else
-The anything_else node is entered when the chatbot doesn't find a correlation between the user's sentence and a intent. This node should be always the last node in the dialog.
+The anything_else node is entered when the chatbot doesn't find a correlation between the user's sentence and a intent. This node should be always the last node in the dialog, in order to be entered after Watson has read all other nodes without finding a match.
 
 
 ## How to enhance Watson Assistant conversations
