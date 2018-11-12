@@ -88,6 +88,7 @@ Important: you can mix the responses types by clicking on "add response" button:
 ## Tutorials
 
 Please find tutorials on how to train Watson Assistant here: link to come (Italian spoken, but with English interface).
+Please note: the following videos are made with the previous version of Watson Assistant interface. The main structural difference is that "Workspaces" has been renamed "Skills". All other new features are described in the new videos. 
 
 1. Riconoscere gli Intenti: https://www.youtube.com/watch?v=imEN7GtX5zw&t=1s
 2. Gli Intenti generali: https://www.youtube.com/watch?v=isrVffJ1po8
