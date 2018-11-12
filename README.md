@@ -1,6 +1,8 @@
 # Creation and training of a Virtual Assistant with Watson Assistant
 
 Watson Assistant training via web interface on IBM Cloud. In this repository I will put examples of how to create and train a Chatbot using Watson Assistant service.
+The scope of this tutorial is to create and train a Skill, that, by definition on IBM Cloud, "contains the training data and machine learning logic that enable your chat bot to understand and help customers".
+After building a Skill, you will be able to create an Assistant: by definition, it "orchestrates the flow of information between a skill and your customers. Add your skill to an assistant, and then deploy the assistant to the media channel of your choice".
 
 
 ## Prerequisites
