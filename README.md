@@ -109,7 +109,7 @@ Linked video tutorials are not official assets.
 Please refer to this Github repository to know how to integrate the Virtual Assistant into a web app:
 1. PHP: https://github.com/lucacrippa88/watson-assistant-php
 2. Node.js: https://github.com/lucacrippa88/watson-assistant-nodejs
-3. Node-RED: https://github.com/lucacrippa88/watson-assistant-nodered (to be completed)
+3. Node-RED: https://github.com/lucacrippa88/watson-telegram-bot (includes Watson Assistant, Watson Visual Recognition, Watson Text to Speech, Watson Language Translation)
 
 ## Disclaimer
 
